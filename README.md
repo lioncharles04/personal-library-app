@@ -26,12 +26,12 @@ A Java-based console application that allows users to manage a personal book col
 Welcome to your Personal Library!
 
 Menu:
+1. Add a book
+2. Show all books
+3. Save library to file
+4. Load library from file
+5. Exit
 
-Add a book
-Show all books
-Save library to file
-Load library from file
-Exit
 Clean Code by Robert C. Martin
 Atomic Habits by James Clear
 
