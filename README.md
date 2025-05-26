@@ -23,3 +23,19 @@ A Java-based console application that allows users to manage a personal book col
 4. Use the menu to add, save, or load your book collection
 
 ## Sample Output
+Welcome to your Personal Library!
+
+Menu:
+
+Add a book
+Show all books
+Save library to file
+Load library from file
+Exit
+Clean Code by Robert C. Martin
+Atomic Habits by James Clear
+
+## Author
+**Lionel Charles-Pierre**  
+Full-Stack Bootcamp Student | Amazon Software Dev Certificate | Healthcare + Tech Hybrid  
+[GitHub Profile](https://github.com/lioncharles04)
